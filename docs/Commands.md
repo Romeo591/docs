@@ -182,9 +182,6 @@ title: Commands
 
 ## Others
 ---
-- **`!prune`** - Deletes the bot's messages and commands.
-    - **Aliases:** `purge`, `clean`
----
 - **`!invite`** - Shows Rythm's official links!
     - **Alias:** `links`
 ---
